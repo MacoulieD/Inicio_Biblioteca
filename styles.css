@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-image: url(https://cdn.pixabay.com/photo/2016/10/24/23/11/doors-1767562_640.jpg);
+    background-image: url(images/Gemini_Generated_Image_t2ye1mt2ye1mt2ye.jpg);
     color: white;
     padding: 1em 2em;
     min-height: 34vh;
@@ -17,7 +17,7 @@ header {
 }
 
 header .logo img {
-    max-height: 100px;
+    max-height: 230px;
 }
 
 nav ul {
