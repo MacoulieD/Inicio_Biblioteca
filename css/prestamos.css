@@ -1,10 +1,10 @@
-@font-face {
-    font-family: literata-ExtraLight;
-    src: url('fuentes/Literata-ExtraLight.ttf') format('truetype');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 body {
     font-family: literata-ExtraLight;
-    ;
     margin: 0;
     line-height: 1.6;
     background-color: #fff;
